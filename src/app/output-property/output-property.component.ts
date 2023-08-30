@@ -28,7 +28,7 @@ export class OutputPropertyComponent {
   }
 
   decrementa() {
-    // Verifica se campoValorInput e campoValorInput.nativeElement são definidos
+    // Verifica se campoValorInput e campoValorInput.nativeElement são definidoss
     if (this.campoValorInput && this.campoValorInput.nativeElement) {
       // Obtém o valor atual do campo de input
       const value = this.campoValorInput.nativeElement.value;
